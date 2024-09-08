@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Terriss-mba
-- 👀 I’m interested in DevOps, AWS related services, and cyber security 
+- 👀 I’m a DevOps engineer,with a solid background in AWS related services
 - 🌱 I’m currently learning cyber security 
 - 💞️ I’m looking to collaborate on cloud based 
 - 📫 How to reach me tekohteris@gmail.com
