@@ -2,7 +2,7 @@
 - 👀 I'm a passionate DevOps Engineer with hands on experience in automating, managing, and optimizing scalable infrastructures
 - 🌱 I focus on enhancing software development pipelines through continuous integration, continuous delivery (CI/CD), containerization, and cloud architecture.
 - 💞️ I enjoy working at the intersection of development and operations to ensure high availability, reliability, and scalability of applications. My expertise spans across various cloud platforms, automation tools, and scripting languages that help streamline deployments, monitor system performance, and ensure robust security practices.
-- 📫 How to reach me tekohteris@gmail.com
+- 📫 How to reach me tekohteriss@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: travel
 
